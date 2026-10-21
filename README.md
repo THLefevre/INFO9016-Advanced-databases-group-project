@@ -1,5 +1,5 @@
 # INFO9016-Advanced-databases-group-project
-Repository for the projects of the INFO9016 - Advanced databases course.
+Repository for the projects of the INFO9016 - Advanced databases course (academic year 2024–2025).
 
 ## Overview
 This repository contains two assignments completed for the INFO9016 – Advanced Databases course at the University of Liège. Each assignment is a self-contained Jupyter notebook tutorial introducing a database technology to readers with a background in relational databases, built around a running example.
