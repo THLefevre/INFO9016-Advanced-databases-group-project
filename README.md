@@ -7,7 +7,7 @@ This repository contains two assignments completed for the INFO9016 – Advanced
 ### Geospatial queries with MongoDB (`Tutorial_GeoSpatialQueries_MongoDB.ipynb`)
 A tutorial on MongoDB's geospatial capabilities, using OpenStreetMap data (benches, cycle paths and parks in Brussels) retrieved through the Overpass API.
 
-### Assignment 4 – Using Prolog to query databases (`Project_TutorialProlog.ipynb`)
+### Using Prolog to query databases (`Project_TutorialProlog.ipynb`)
 A tutorial accompanying a 1-hour lecture given as part of the course project, extending the lecture's content. Using SWI-Prolog through PySwip and a Pokémon knowledge base built from PokéAPI, it covers:
 - Facts, rules, unification and backtracking, compared with Datalog
 - Recursion, lists, cuts (green vs red) and negation as failure
