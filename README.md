@@ -4,7 +4,7 @@ Repository for the projects of the INFO9016 - Advanced databases course.
 ## Overview
 This repository contains two assignments completed for the INFO9016 – Advanced Databases course at the University of Liège. Each assignment is a self-contained Jupyter notebook tutorial introducing a database technology to readers with a background in relational databases, built around a running example.
 
-### Geospatial queries with MongoDB (`NOMFICHIER`)
+### Geospatial queries with MongoDB (`Tutorial_GeoSpatialQueries_MongoDB.ipynb`)
 A tutorial on MongoDB's geospatial capabilities, using OpenStreetMap data (benches, cycle paths and parks in Brussels) retrieved through the Overpass API.
 
 ### Assignment 4 – Using Prolog to query databases (`Project_TutorialProlog.ipynb`)
